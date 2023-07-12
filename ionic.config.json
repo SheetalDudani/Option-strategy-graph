@@ -1,0 +1,7 @@
+{
+  "name": "option-strategy-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
